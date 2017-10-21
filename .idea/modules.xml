@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advancedStreams.iml" filepath="$PROJECT_DIR$/advancedStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spliterator/spliterator.iml" filepath="$PROJECT_DIR$/spliterator/spliterator.iml" />
+    </modules>
+  </component>
+</project>
