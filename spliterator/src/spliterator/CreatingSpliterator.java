@@ -14,10 +14,9 @@ public class CreatingSpliterator {
 
     public static void main(String[] args) {
 
-        System.out.println(Paths.get(".").toAbsolutePath());
         Path path = Paths.get("files/people.txt");
 
-        try (Stream<String> lines = Files.lines(path);) {
+        try (Stream<String> lines = Files.lines(path)) {
 
             Spliterator<String> lineSpliterator = lines.spliterator();
             Spliterator<Person> personSpliterator = new PersonSpliterator(lineSpliterator);
