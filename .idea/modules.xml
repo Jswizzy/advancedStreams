@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advancedStreams.iml" filepath="$PROJECT_DIR$/advancedStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergingStreams/mergingStreams.iml" filepath="$PROJECT_DIR$/mergingStreams/mergingStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionals/optionals.iml" filepath="$PROJECT_DIR$/optionals/optionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/parallelStreams/parallelStreams.iml" filepath="$PROJECT_DIR$/parallelStreams/parallelStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/spliterator/spliterator.iml" filepath="$PROJECT_DIR$/spliterator/spliterator.iml" />
     </modules>
