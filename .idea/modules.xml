@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/advancedCollectors/advancedCollectors.iml" filepath="$PROJECT_DIR$/advancedCollectors/advancedCollectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/advancedStreams.iml" filepath="$PROJECT_DIR$/advancedStreams.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataCollectors/dataCollectors.iml" filepath="$PROJECT_DIR$/dataCollectors/dataCollectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergingStreams/mergingStreams.iml" filepath="$PROJECT_DIR$/mergingStreams/mergingStreams.iml" />
